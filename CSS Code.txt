@@ -1,0 +1,122 @@
+header{
+
+    position: fixed;
+}
+
+li{
+    
+  
+    margin-right: 130px;
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.menu{
+    background-color: rgb(8, 148, 132);
+    height: 50px;
+    width: 100%x;
+    border-radius: 200px;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+  
+    color: orange;
+ 
+    
+}
+img{
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+button{
+    position: relative;
+    bottom:1400px;
+    left: 68px;
+    height: 50px;
+    width: 140px;
+    background-color: aqua;
+    border: 0ch;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 1px gray;
+}
+button:hover{
+    height: 60px;
+    width: 160px;
+    background-color: lightgreen;
+    color: blue;
+    font-size: larger;
+}
+.head1{
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 80px;
+    color: orange;
+    position: relative;
+    bottom:1100px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.head2{
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 70px;
+    color: rgba(6, 227, 165, 0.916);
+    position: relative;
+    bottom: 1150px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.head3{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-size: 60px;
+    color: rgb(169, 65, 239);
+    position: relative;
+    bottom:1250px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.head4{
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 50px;
+    color: rgb(242, 60, 60);
+    position: relative;
+    bottom:1300px;
+    text-shadow: 5px 5px 5px black;
+    
+}
+.head5{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    color: rgb(13, 241, 233);
+    position: relative;
+    bottom:1350px;
+    text-shadow: 5px 5px 5px black;
+    
+}
+a.link{
+    position: relative;
+    bottom:1340px;
+    left: -76px;
+    text-align: center;
+    border: 2px solid green;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+
+
+
+a.link:hover{
+    background-color: green;
+    color: aliceblue;
+}

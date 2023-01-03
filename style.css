@@ -1,0 +1,46 @@
+header{
+
+    position: fixed;
+}
+
+li{
+    
+  
+    margin-right: 150px;
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+    .head1{
+        font-family: 'Rubik Moonrocks', cursive;
+    }
+    
+    .head2{
+        font-family: 'Rubik Moonrocks', cursive;
+    }
+    
+
+
+.menu{
+    background-color: orange;
+    height: 50px;
+    width: 100%x;
+    border-radius: 200px;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(2, 92, 170);
+}
+a:hover{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+ 
+    
+}
+

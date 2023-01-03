@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assignment#23</title>
+        <link rel="stylesheet" href="css/Assignment23style.css">
+        <link rel="stylesheet" href="css/all.css">
+        <link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi&family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&family=Reem+Kufi&family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Noto+Nastaliq+Urdu&family=Reem+Kufi&family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Noto+Nastaliq+Urdu&family=Reem+Kufi&family=Rubik+Moonrocks&family=Tangerine&display=swap" rel="stylesheet">
+
+    </head>
+    <body style="margin-top: 0%; background-color: rgb(196, 250, 247);" >
+        <div  style="background-color:cyan; color:rgb(2, 92, 170); font-size: 50px; margin-top: 0%; margin-left: 0%; height: 180px;" >
+            <div style="height: 45px; width:0px; margin-left: 1%; margin-top: 0px; "><img src="images/logo.png" id="top" align="left" style="margin-top: 30px;"></div>
+            <p  align="Center" style="margin-top: 10px;"><b><i class="fa-solid fa-book"></i> Fazli Online Library || ???? ?????? ??????? <i class="fa-solid fa-book"></i></b></p>
+        </div>
+        <div class="menu">
+            <nav>
+                <ul>
+                    <li ><a href="Assignment#13.html"><i class="fa-solid fa-house-chimney-window"></i> Home</a></li>
+                    <li ><a href="books.html"><i class="fa-solid fa-book"></i> Books</a>
+                    <li ><a href="categories.html"><i class="fa-brands fa-accusoft"></i> Catergories</a></li>
+                    <li ><a href=""><i class="fa-solid fa-download"></i> Download</a></li>
+                    <li ><a href="upload.html"><i class="fa-solid fa-upload"></i> Upload</a></li>
+                    <li ><a href="aboutus.html"><i class="fa-solid fa-address-card"></i> About Us</a></li>
+                    <li ><a href="contactus.html"><i class="fa-solid fa-address-book"></i> Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+        <hr>
+        <center>
+        <img src="background.jpg" alt="" style="margin-right: 30px; border: 1px solid tomato;">
+        <h1 class="head1">WElCOME TO LIBRARY! <i class="fa-regular fa-handshake" style="color: rgb(38, 245, 38);"></i></h1>
+        <h2 class="head2">!??????? ?? ?? ???????</h2>
+        <h3 class="head3"> !?? ???????? ??? ?????</h3>
+        <h4 class="head4"> Read more books!</h4>
+        <h5 class="head5"> Gain More Knowloedge!</h5>
+        
+        <a href="" target="_blank"><button> <i class="fa-brands fa-shopify"></i> SHOP NOW</button></a>
+        <a href="" class="link"><i class="fa-brands fa-shopify"></i>This is a link</a>
+       
+    </center>
+
+       </body>
+</html>
